@@ -1,2 +1,2 @@
 # invie-github
-testing repo
+testing repo Curso Platzi
